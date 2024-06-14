@@ -49,8 +49,6 @@ include("essential/Essential.jl")
 using .Essential
 include("mcmc/Inference.jl")  # inference algorithms
 using .Inference
-include("variational/VariationalInference.jl")
-using .Variational
 
 include("optimisation/Optimisation.jl")
 using .Optimisation
