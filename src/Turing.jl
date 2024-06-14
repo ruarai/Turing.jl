@@ -97,8 +97,6 @@ export @model,                 # modelling
     SMC,
     CSMC,
     PG,
-    vi,                     # variational inference
-    ADVI,
     sample,                 # inference
     @logprob_str,
     @prob_str,
